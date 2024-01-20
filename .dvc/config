@@ -1,0 +1,4 @@
+[core]
+    remote = mayya
+['remote "mayya"']
+    url = ../config/workspace/myrepo
